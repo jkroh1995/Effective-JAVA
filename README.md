@@ -27,7 +27,7 @@
 - [Item 9. try-finally 보다는 try-with-resource를 사용하라 - 재경]()
 - [Item 10. equals는 일반 규약을 지켜 재정의하라 - ]()
 - [Item 10. equals를 재정의하려거든 hashCode도 재정의하라 - ]()
-- [Item 12. toSrting을 항상 재정의하라 - 재경]()
+- [Item 12. toSrting을 항상 재정의하라 - 재경](https://github.com/jkroh1995/Effective-JAVA/blob/main/2%EC%9E%A5%20%EB%AA%A8%EB%93%A0%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EA%B3%B5%ED%86%B5%20%EB%A9%94%EC%84%9C%EB%93%9C/12.%20toString%EC%9D%84%20%ED%95%AD%EC%83%81%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 
 
 ## 👪 Contributors
