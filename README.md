@@ -24,9 +24,9 @@
 - [Item 6. 불필요한 객체 생성을 피하라 - 재경](https://github.com/jkroh1995/Effective-JAVA/blob/main/1%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/06.%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)
 - [Item 7. 다 쓴 객체 참조를 해제하라 - 명인]()
 - [Item 8. finalizer와 cleaner 사용을 피하라 - 명인]()
-- [Item 9. try-finally 보다는 try-with-resource를 사용하라 - 재경]()
-- [Item 10. equals는 일반 규약을 지켜 재정의하라 - ]()
-- [Item 10. equals를 재정의하려거든 hashCode도 재정의하라 - ]()
+- [Item 9. try-finally 보다는 try-with-resource를 사용하라 - 재경](https://github.com/jkroh1995/Effective-JAVA/blob/main/1%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/09.%20try-finally%20%EB%B3%B4%EB%8B%A4%EB%8A%94%20try-with-resource%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+- [Item 10. equals는 일반 규약을 지켜 재정의하라 - 재경](https://github.com/jkroh1995/Effective-JAVA/blob/main/2%EC%9E%A5%20%EB%AA%A8%EB%93%A0%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EA%B3%B5%ED%86%B5%20%EB%A9%94%EC%84%9C%EB%93%9C/10.%20equals%EB%8A%94%20%EC%9D%BC%EB%B0%98%20%EA%B7%9C%EC%95%BD%EC%9D%84%20%EC%A7%80%EC%BC%9C%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
+- [Item 11. equals를 재정의하려거든 hashCode도 재정의하라 - 재경](https://github.com/jkroh1995/Effective-JAVA/blob/main/2%EC%9E%A5%20%EB%AA%A8%EB%93%A0%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EA%B3%B5%ED%86%B5%20%EB%A9%94%EC%84%9C%EB%93%9C/11.%20equals%EB%A5%BC%20%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0%20hashCode%EB%8F%84%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 - [Item 12. toSrting을 항상 재정의하라 - 재경](https://github.com/jkroh1995/Effective-JAVA/blob/main/2%EC%9E%A5%20%EB%AA%A8%EB%93%A0%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EA%B3%B5%ED%86%B5%20%EB%A9%94%EC%84%9C%EB%93%9C/12.%20toString%EC%9D%84%20%ED%95%AD%EC%83%81%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 
 
